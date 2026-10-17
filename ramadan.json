@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "groups": {
+    "east": ["KZ", "UZ", "KG", "TJ", "TM", "AZ", "RU", "TR", "EG", "PK", "IN", "BD", "MY", "ID", "SG", "BN", "PH"],
+    "west": ["SA", "AE", "QA", "KW", "BH", "OM", "YE", "GB", "FR", "DE", "NL", "BE", "US", "CA"]
+  },
+  "ramadan": {
+    "1448": {
+      "TR": { "start": "2027-02-08", "days": 29, "confirmed": true }
+    }
+  }
+}
